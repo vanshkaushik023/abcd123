@@ -96,7 +96,7 @@ function displayNewReason() {
                 duration: 0.5,
                 ease: "elastic.out",
                 onComplete: () => {
-                    shuffleButton.textContent = "Back to the start 💗";
+                    shuffleButton.textContent = "I hope you like it!";
                     shuffleButton.classList.add('story-mode');
                     shuffleButton.removeEventListener('click', handleClick);
                     shuffleButton.addEventListener('click', () => {
