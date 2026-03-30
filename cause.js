@@ -10,11 +10,11 @@ document.addEventListener('click', function startOnInteraction() {
 // Reasons database
 const reasons = [
     {
-        text: "Hey Liyah, good morning baby, it's a really special day, for us, but for me particularly. It's the birthday of the woman I love, and I want to make her feel special. I don't say this enough, but I'm actually so very grateful for having her. She's lowkey stuck with me, I'm not letting her go anywhere, I'd be damned if I ever did. That \"she\" is you, in case you were wondering.",
+        text: "Hey Liyah, good morning baby, it's a really special day, for us, but for me particularly. It's the birthday of the woman I love, and I want to make her feel special. I want her to know I'm really very grateful for having her and she means a lot to me. All i be doing the wholeday is wondering about her and missing her. She's lwk stuck with me, I'm not letting her go anywhere, I'd be damned if I ever did. The "she" is you, in case you were wondering.",
         image: "img1.jpeg"
     },
     {
-        text: "And for your dearest attention, I mean every word here, nothing but sheer love behind all of them. No agenda, no expectations, you owe me nothing babyness. It's just that I love you so bad that I can't help but adore everything you do; from your iPad to your Stanley, to your rainbow coloured air fryer, I cherish them all.",
+        text: "And for your dearest attention, I mean every word here, nothing but sheer love behind all of them. No agenda, no expectations, you owe me nothing babyness. It's just that I love you so bad that I can't help but adore everything about you, even myfav iPad, the pink Stanley, and the rainbow coloured air fryer; I love them sobad.",
         image: "img2.jpeg"
     },
     {
@@ -28,7 +28,7 @@ const reasons = [
 ];
 
 // Button texts for each click
-const buttonTexts = ["MyBaby", "Iloveu sobad", "Its js us", "Imissu always"];
+const buttonTexts = ["MyBaby", "Its js us", "I loveu sobad", "Imissu always"];
 
 // State management
 let currentReasonIndex = 0;
