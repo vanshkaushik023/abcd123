@@ -14,7 +14,7 @@ const reasons = [
         image: "img1.jpeg"
     },
     {
-        text: "And for your dearest attention, I mean every word here, nothing but sheer love behind all of them. No agenda, no expectations, you owe me nothing babyness. It's just that I love you so bad that I can't help but adore everything about you, even myfav iPad, the pink Stanley, and the rainbow coloured air fryer; I love them sobad.",
+        text: "And for your dearest attention, I mean every word here, nothing but sheer love behind all of them. No agenda, no expectations, you owe me nothing babyness. It's just that I love you so bad that I can't help but adore everything about you, every single thing that makes you you.",
         image: "img2.jpeg"
     },
     {
