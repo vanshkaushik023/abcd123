@@ -18,17 +18,17 @@ const reasons = [
         image: "img2.jpeg"
     },
     {
-        text: "I don't think anyone could be like you. The way you carry yourself and go about your day is actually so hot, never fails to amaze me. And on top of that, you're so niceness to everyone; always thinking of others before yourself. It's something you should probably work on, but honestly it's rare and it's so you. You're such an original person, never change, Liyah. And no, I'm not glazing you, this is all true.",
+        text: "I don't think anyone could be like you. The way you carry yourself and go about your day is actually so hot, never fails to amaze me. And on top of that, you're so niceness to everyone; always thinking of others before yourself. It's so rare and it's so you. You're such an angel, never change, Liyah. And no, I'm not glazing you, this is all true.",
         image: "img3.jpeg"
     },
     {
-        text: "I'm longing for the hatred you possess for your birthday to decrease upon reading this; even minutely would work. These little things adding up every year, and one day you'll probably love your birthday, because I'm not going to forget it ever. I don't know if me doing this is too much or too little for your birthday, honestly I think it's on the lesser side. I just hope that when it's finally time to give this to you, we're still together or at least in contact. Though I reckon I'd still find a way to send this over to you. Okay baby, I think it's time for me to go; until next year, Happy Birthday my Moroccan delight. Nadie como tú.",
+        text: "I'm longing for the hatred you possess for your birthday to decrease upon reading this; even minutely would work. These little things adding up every year, and one day you'll probably love your birthday, because I'm not going to forget it ever. I dont know if me writing this is gonna do any justice to how much this angel has bewitched me; i literally wonder about you the whole day ok anyway, I just hope that when it's finally time to give this to you, we're still together or at least in contact. Though I reckon I'd still find a way to send this over to you. Okay baby, I think it's time for me to go; until next year, Happy Birthday my Moroccan delight. Nadie como tú.",
         image: "img4.jpeg"
     }
 ];
 
 // Button texts for each click
-const buttonTexts = ["MyBaby", "Its js us", "I loveu sobad", "Imissu always"];
+const buttonTexts = ["MyBaby", "Its js us", "I loveu sobad", "And imissu always"];
 
 // State management
 let currentReasonIndex = 0;
